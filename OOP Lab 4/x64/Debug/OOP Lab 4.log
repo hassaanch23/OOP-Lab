@@ -1,0 +1,5 @@
+﻿  Q1.cpp
+  Source.cpp
+  Generating Code...
+E:\University\2nd Semester\OOP Lab\OOp Lab 4\OOP Lab 4\OOP Lab 4\Q1.h(111): warning C4715: 'BiggerInt::CompareTo': not all control paths return a value
+  OOP Lab 4.vcxproj -> E:\University\2nd Semester\OOP Lab\OOp Lab 4\OOP Lab 4\x64\Debug\OOP Lab 4.exe

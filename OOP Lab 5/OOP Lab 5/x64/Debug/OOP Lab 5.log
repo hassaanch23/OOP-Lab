@@ -1,0 +1,6 @@
+﻿  Q1.cpp
+C:\Users\FIREFLY LAPTOP'S\Desktop\OOP Lab 5\OOP Lab 5\Q1.cpp(29,2): error C3873: '0xa0': this character is not allowed as a first character of an identifier
+C:\Users\FIREFLY LAPTOP'S\Desktop\OOP Lab 5\OOP Lab 5\Q1.cpp(29,2): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\FIREFLY LAPTOP'S\Desktop\OOP Lab 5\OOP Lab 5\Q1.cpp(29,2): error C2065: '   return 0': undeclared identifier
+  Q2.cpp
+  Generating Code...
